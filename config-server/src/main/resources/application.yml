@@ -5,4 +5,5 @@ spring:
   cloud:
     config:
       server:
-        
+        git:
+          uri: https://github.com/is4ii4s/java-microservico-springcloud-configs.git

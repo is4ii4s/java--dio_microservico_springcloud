@@ -1,2 +1,9 @@
-server:
-  port: 8083
+spring:
+
+  application:
+    name: product-catalog
+
+  cloud:
+    config:
+      enabled: true
+      uri: http://localhost:8888

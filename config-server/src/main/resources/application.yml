@@ -6,4 +6,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/is4ii4s/java--microservico_springcloud_configs.git
+          uri: https://github.com/is4ii4s/java--dio_microservico_springcloud_configs.git
+          
